@@ -1,0 +1,1 @@
+A small html project to practice skills from the Odin Project Foudnations Course.
